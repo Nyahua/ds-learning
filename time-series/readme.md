@@ -1,0 +1,2 @@
+- [Time Series Forecasting in Python(online book)](https://livebook.manning.com/book/time-series-forecasting-in-python-book)
+- [code github](https://github.com/bpbpublications/Machine-Learning-Cookbook-with-Python)
